@@ -4,8 +4,6 @@
 
 🚫 **100% human made content.** People > Algorithms.
 
----
-
 ### 🌈 About me
 
 |  |  |
@@ -15,8 +13,6 @@
 | **Politics** | Socialist, Humanist |
 | **Location** | East TN (Appalachia) |
 
----
-
 ### Systems
 
 - **Desktop:** CachyOS (Arch-based)
@@ -25,8 +21,6 @@
 - **WM:** KDE Plasma 6 (Wayland)
 - **Shell:** Fish
 - **Browser:** LibreWolf
-
----
 
 ### Projects
 
@@ -38,13 +32,9 @@
 
 Bigoted folks, projects and companies | AI apologism | Surveillance tech
 
----
-
 ### Support
 
 Thank you for supporting independent, human made content! 🧡
-
----
 
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine)
 
