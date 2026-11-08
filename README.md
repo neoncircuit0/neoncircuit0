@@ -38,8 +38,6 @@ Thank you for supporting independent, human made content! 🧡
 
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine)
 
----
-
 ## License
 
 [CC-BY-SA-4.0](LICENSE) - Feel free to adapt this for your own profile!
